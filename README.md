@@ -1,4 +1,4 @@
-# FootballApp2
+# aplikasi android untuk menampilkan data pertandingan bola
 Football Android Application written in Kotlin
 
 **Don't copy all of code to pass the test**, just learn and write with your style.
